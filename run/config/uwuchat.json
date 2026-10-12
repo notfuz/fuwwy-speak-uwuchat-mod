@@ -1,7 +1,0 @@
-{
-  "enabled": true,
-  "translateOutgoing": true,
-  "translateIncoming": true,
-  "translateServerMessages": false,
-  "owoEndings": true
-}
