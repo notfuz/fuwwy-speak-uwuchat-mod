@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "uwuchat",
+  "version": "${version}",
+  "name": "UwUChat",
+  "description": "Uwuifies chat: what you send and what you read.",
+  "authors": [
+    "Fuz"
+  ],
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "com.fuz.uwuchat.UwuChatMod"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.19.3",
+    "minecraft": "~26.2",
+    "java": ">=25",
+    "fabric-api": "*"
+  }
+}
